@@ -3,7 +3,6 @@
 //  AVL TREE
 // Node class for AVL Tree
 //  Created by Francis Knight on 5/17/19.
-//  Copyright © 2019 Francis Knight. All rights reserved.
 //
 
 #ifndef AVLTreeNode_h
